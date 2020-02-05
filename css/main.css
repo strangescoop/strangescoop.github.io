@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img[src$="centerme"] {
+    display: block;
+    margin: 0 auto;
+}
